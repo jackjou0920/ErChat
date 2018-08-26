@@ -1,5 +1,9 @@
 # ErChat
 An erasable communication system
 
-ioajriojqiorgji
-================
+• Login
+================================
+
+
+• Signup
+================================
