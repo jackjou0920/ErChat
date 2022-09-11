@@ -5,7 +5,7 @@ An erasable communication system
 https://youtu.be/99OhAhmjRQQ
 
 ## Poster for presentation
-![image](https://github.com/jackjou0920/ErChat/blob/master/img/poster.png)
+![image](https://github.com/jackjou0920/ErChat/blob/master/img/poster.jpg)
 
 ## Demo screenshots
 • Login & Signup
