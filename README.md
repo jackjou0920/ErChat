@@ -6,34 +6,34 @@ https://youtu.be/99OhAhmjRQQ
 • Login & Signup
 --------------------------------
 
-![image](https://github.com/jackjou0920/ErChat/blob/master/src/result/Screen%20Shot%202017-12-18%20at%203.04.52%20PM.png)
+![image](https://github.com/jackjou0920/ErChat/blob/master/img/login.png)
 
 
 • Main
 --------------------------------
 
-![image](https://github.com/jackjou0920/ErChat/blob/master/src/result/Screen%20Shot%202017-12-18%20at%203.47.50%20PM.png)
+![image](https://github.com/jackjou0920/ErChat/blob/master/img/main.png =250x250)
 
 
 • Search Friends
 --------------------------------
 
-![image](https://github.com/jackjou0920/ErChat/blob/master/src/result/Screen%20Shot%202017-12-17%20at%2011.20.31%20PM.png)
+![image](https://github.com/jackjou0920/ErChat/blob/master/img/search.png)
 
 
 • Chat Room for Private
 --------------------------------
 
-![image](https://github.com/jackjou0920/ErChat/blob/master/src/result/Screen%20Shot%202017-12-17%20at%207.24.21%20PM.png)
+![image](https://github.com/jackjou0920/ErChat/blob/master/img/chat.png)
 
 
 • Create Group
 --------------------------------
 
-![image](https://github.com/jackjou0920/ErChat/blob/master/src/result/Screen%20Shot%202017-12-17%20at%207.26.21%20PM.png)
+![image](https://github.com/jackjou0920/ErChat/blob/master/img/create.png)
 
 
 • Chat Room for Group
 --------------------------------
 
-![image](https://github.com/jackjou0920/ErChat/blob/master/src/result/Screen%20Shot%202017-12-17%20at%207.24.51%20PM.png)
+![image](https://github.com/jackjou0920/ErChat/blob/master/img/group.png)
